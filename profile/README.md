@@ -1,4 +1,4 @@
-# Fuckur Mom Group
+# _Fuck Your Mom_ Group
 
 We're committed to ridding the world of idiots.
 
