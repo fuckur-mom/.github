@@ -8,9 +8,13 @@ For the world, for a better future, we co-founded this project.
 
 Don't get me wrong, we have all the respect for your mother.
 
-## Content
+## Services
+
+### Main Service: Fuck Your Mom
 
 We power your creations by providing CNAME record subdomains or NS record subdomains.
+
+The home page of the service is located at <https://www.fuckur.mom>.
 
 Before you submit, you need to make sure your situation meets our requirements. We have the following requirements for submitted applications:
 
@@ -35,6 +39,14 @@ The application format is as follows:
 * The type of subdomain you are applying for
 * What idiots do (detailed description)
 * Idiots' contact
+
+### Service: Lezi Wiki
+
+We provide a new platform for storing and walking some fun-loving idiots. 
+
+We require the information to have high authenticity and reliability. At the same time, the article analyzes the incident from an objective and pertinent perspective, and draws relevant conclusions, so as to promote netizens in the younger age group to recognize themselves.
+
+The home page of the service is located at <https://lezi.wiki>.
 
 ## Join us
 
