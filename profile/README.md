@@ -60,6 +60,8 @@ As long as you love technology, have front-end basics, and are interested in lea
 
 Even if you are not good at front-end, you can join our review team if your review is strict and honest.
 
-If you are interested, please contact <admin@fuckur.mom>.
+If you are interested, please contact <admin@lezi.wiki>.
 
 > We don't just stop at this fun, pleasure-seeking project. When you join, we will notify you when we open other programs and choose you first.
+
+Lezi Wiki is now owned by the [Winnie News](https://www.winnie.news) team, but managed by its original operations team. For questions or abuses, please contact <eddie@winnie.news>.
